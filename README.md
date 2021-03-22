@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @davidoAraveno
+- 👀 I’m interested in fullstack programming;
+- 🌱 I’m currently learning fullstack developer;
+- 💞️ I’m I study in a Chilean academy;
